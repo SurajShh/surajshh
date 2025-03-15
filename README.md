@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=surajshh" alt="surajshh" /></a> </p>
 
-- 👨‍💻 All of my projects are available at [surajshettigar.in](surajshettigar.in)
+- 👨‍💻 All of my projects are available at [Github Repo](https://github.com/SurajShh?tab=repositories)
 
 - 📫 How to reach me **surajshettigar66@gmail.com**
 
